@@ -38,7 +38,7 @@
 - 사회자는 모든 인원 돌아가면서
 - 회고 양식에 맞춰 미리 작성
 
-  | ![image](https://github.com/user-attachments/assets/4c03e129-5439-4c2c-8e8e-e900de401a47) |
+  | ![image](https://github.com/user-attachments/assets/3253bc9b-5c3d-4290-abdc-ef0eb0be7449) |
   | :---------------------------------------------------------------------------------------: |
   |                                    **회고 양식 샘플**                                     |
 
