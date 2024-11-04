@@ -9,7 +9,7 @@
 ## ✅ 11/01 Todo List
 
 - [x] 오늘 한 일을 적어요. (몰입시간/소요시간)
-- [ ] 오늘 하지 못한 일이 있을 수 있어요.
+- [ ] 오늘 하지 못한 일이 있을 수 있어요. (몰입시간/소요시간)
 - [x] 오늘 완수한 일에 총 소요시간 대비 몰입시간도 작성해보아요! (몰입시간/소요시간)
 
 ## 🎉 셀프 피드백
@@ -20,8 +20,8 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25"> 반성하기</img>
 
-> 나의 발전을 위해 따끔한 충고를! </br>
-> 오늘을 돌아보고 어떻게 개선할 지 작성해 보아요 ~
+> 나의 발전을 위해 따끔한 충고를! <br>
+> 오늘을 돌아보고 어떻게 개선할 지 작성해 보아요 ~ <br>
 
 ## 🌱 Next
 
