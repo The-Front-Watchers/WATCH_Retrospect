@@ -38,9 +38,13 @@
 - 사회자는 모든 인원 돌아가면서
 - 회고 양식에 맞춰 미리 작성
 
+<a href="https://github.com/The-Front-Watchers/WATCH_Retrospect/blob/main/Templete/templete.md">
+
   | ![image](https://github.com/user-attachments/assets/3253bc9b-5c3d-4290-abdc-ef0eb0be7449) |
   | :---------------------------------------------------------------------------------------: |
   |                                    **회고 양식 샘플**                                     |
+
+</a>
 
 ## 💚 향후 기수 모집 방식
 
