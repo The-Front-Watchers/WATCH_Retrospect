@@ -20,19 +20,19 @@
 
 ## 🚩 진행장소
 
-- [회의 - 피그잼](https://www.figma.com/board/vdTB3K7eZ0qI7NiWfIafTQ/The-Watch-Study?node-id=0-1&node-type=canvas&t=Ie2KP97atL8FhyRv-0)
+- [회의 - 피그잼](https://www.figma.com/board/QxmmafHvfI8GnEqjQj1dsv/Watchers-%ED%9A%8C%EA%B3%A0%EB%B0%A9?node-id=0-1&node-type=canvas&t=vqbvkrspDyPC1jgv-0)
 - [문서작성 - GitHub](https://github.com/NINI-Bros/Watch)
 
 ## 🚀 스터디 진행 기간
 
 - 시작시간 : 22시 (오후10시)
 - 횟수 : 주 6회 (주말 제외)
-- 매월 기수모집 (11월 베타 테스트)
+- 매월 기수모집 (2024년 11월 베타 테스트)
 
 ## 🎉 진행방식
 
 - 불참은 미리 말하고 체크해두기
-- 1인 10분 스피치
+- 1인 5분 스피치
 - 피드백 1인 5분 또는 알아서 DM
 - 인원 맞춰 시간 조정
 - 사회자는 모든 인원 돌아가면서
