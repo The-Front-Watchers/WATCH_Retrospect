@@ -43,9 +43,9 @@
 - 회고 양식에 맞춰 미리 작성
 - 피드백 박스에 미리 질문 올려두기
 
-<a href="https://github.com/user-attachments/assets/ab469498-5ff8-4bbd-af4d-c53d96093eb2">
+<a href="https://github.com/The-Front-Watchers/WATCH_Retrospect/blob/main/Templete/templete.md">
 
-| ![image](https://github.com/user-attachments/assets/3253bc9b-5c3d-4290-abdc-ef0eb0be7449) |
+| ![image](https://github.com/user-attachments/assets/78346392-0fa3-459b-8680-2d79b7a9cbb2) |
 | :---------------------------------------------------------------------------------------: |
 |                                    **회고 양식 샘플**                                     |
 
