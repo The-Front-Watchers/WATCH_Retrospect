@@ -34,14 +34,16 @@
 
 ## 🎉 진행방식
 
-- 불참은 미리 말하고 체크해두기
+- 불참은 미리 회고 채팅방에 말해두기
 - 1인 5분 스피치
+- 적극적인 스티커 리액션✨
 - 피드백 1인 5분 또는 알아서 DM
 - 인원 맞춰 시간 조정
 - 사회자는 모든 인원 돌아가면서
 - 회고 양식에 맞춰 미리 작성
+- 피드백 박스에 미리 질문 올려두기
 
-<a href="https://github.com/The-Front-Watchers/WATCH_Retrospect/blob/main/Templete/templete.md">
+<a href="https://github.com/user-attachments/assets/ab469498-5ff8-4bbd-af4d-c53d96093eb2">
 
 | ![image](https://github.com/user-attachments/assets/3253bc9b-5c3d-4290-abdc-ef0eb0be7449) |
 | :---------------------------------------------------------------------------------------: |
