@@ -51,6 +51,18 @@
 
 </a>
 
+## 👪 역대 Watchers
+
+<details><summary>The Watchers 가족 살펴보기</summary>
+
+| 월        | 운영진                           | 운영진                     | 회고원                          | 회고원                          | 회고원                      | 회고원 | 회고원 |
+| --------- | -------------------------------- | -------------------------- | ------------------------------- | ------------------------------- | --------------------------- | ------ | ------ |
+| 24년 11월 | https://github.com/redcontroller | https://github.com/ryungom | https://github.com/hardy-is-cat | https://github.com/merrybmc     | https://github.com/zldnlto  |        |        |
+| 24년 12월 | https://github.com/redcontroller | https://github.com/ryungom | https://github.com/hardy-is-cat | https://github.com/LeemJungHoon | https://github.com/heegenie |        |        |
+| 25년 01월 | https://github.com/redcontroller | https://github.com/ryungom | https://github.com/hardy-is-cat | https://github.com/LeemJungHoon | https://github.com/heegenie |        |        |
+
+</details>
+
 ## 💚 향후 기수 모집 방식
 
 - 멋사 | 인프런 | 한입 커뮤니티
