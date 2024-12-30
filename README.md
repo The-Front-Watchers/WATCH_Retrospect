@@ -11,12 +11,13 @@
 - 서로의 안부를 확인하며 함께 기운 복돋아주기
 
 ## 📝 목차
-
-[✨ 회고 주제](#-회고-주제) </br>
-[🚩 진행장소](#-진행장소) </br>
-[🚀 스터디 진행 기간](#-스터디-진행-기간) </br>
-[🎉 진행방식](#-진행방식) </br>
-[💚 향후 기수 모집 방식](#-향후-기수-모집-방식) </br>
+[✨ 회고 주제](#-회고-주제)  <br>
+[📝 목차](#-목차) <br>
+[🚩 진행장소](#-진행장소) <br>
+[🚀 스터디 진행 기간](#-스터디-진행-기간) <br>
+[🎉 진행방식](#-진행방식) <br>
+[👪 역대 Watchers](#-역대-watchers) <br>
+[💚 향후 기수 모집 방식](#-향후-기수-모집-방식) <br>
 [🚨 패널티](#-패널티)
 
 ## 🚩 진행장소
@@ -55,13 +56,16 @@
 
 <details><summary>The Watchers 가족 살펴보기</summary>
 
-| 월        | 운영진                           | 운영진                     | 회고원                          | 회고원                          | 회고원                      | 회고원 | 회고원 |
-| --------- | -------------------------------- | -------------------------- | ------------------------------- | ------------------------------- | --------------------------- | ------ | ------ |
-| 24년 11월 | https://github.com/redcontroller | https://github.com/ryungom | https://github.com/hardy-is-cat | https://github.com/merrybmc     | https://github.com/zldnlto  |        |        |
-| 24년 12월 | https://github.com/redcontroller | https://github.com/ryungom | https://github.com/hardy-is-cat | https://github.com/LeemJungHoon | https://github.com/heegenie |        |        |
-| 25년 01월 | https://github.com/redcontroller | https://github.com/ryungom | https://github.com/hardy-is-cat | https://github.com/LeemJungHoon | https://github.com/heegenie |        |        |
+| 월        | 운영진                           | 운영진                     | 회고원                          | 회고원                          | 회고원                      |
+| :---------: | :--------------------------------: | :--------------------------: | :-------------------------------: | :-------------------------------: | :---------------------------: |
+| 24년 11월 | <a href='https://github.com/redcontroller'><img width='150' src='https://github.com/user-attachments/assets/bc79a85b-3fe7-487f-9f2e-a4e99d88e2ee'></a> | <a href='https://github.com/ryungom'><img width='150' src='https://github.com/user-attachments/assets/49fb5b54-1fdb-43f3-8244-c37c1cfb4252'></a> | <a href='https://github.com/hardy-is-cat'><img width='150' src='https://github.com/user-attachments/assets/4dcad87f-f29a-440e-a432-676ffcb5b226'></a> | <a href='https://github.com/merrybmc'><img width='150' src='https://github.com/user-attachments/assets/dda4b7bf-ef3d-4c2c-984b-f9827e7679dc'></a>     | <a href='https://github.com/zldnlto'><img width='150' src='https://github.com/user-attachments/assets/ae9049d3-94e5-406e-af53-99072af90301'></a>  |
+| 24년 12월 | <a href='https://github.com/redcontroller'><img width='150' src='https://github.com/user-attachments/assets/bc79a85b-3fe7-487f-9f2e-a4e99d88e2ee'></a> | <a href='https://github.com/ryungom'><img width='150' src='https://github.com/user-attachments/assets/49fb5b54-1fdb-43f3-8244-c37c1cfb4252'></a> | <a href='https://github.com/hardy-is-cat'><img width='150' src='https://github.com/user-attachments/assets/4dcad87f-f29a-440e-a432-676ffcb5b226'></a> | <a href='https://github.com/LeemJungHoon'><img width='150' src='https://github.com/user-attachments/assets/11fce973-e85e-4cce-be1c-817773f91c47'></a> | <a href='https://github.com/heegenie'><img width='150' src='https://github.com/user-attachments/assets/8e885389-079c-40fb-a965-93d70256982e'></a> |
+| 25년 01월 | <a href='https://github.com/redcontroller'><img width='150' src='https://github.com/user-attachments/assets/bc79a85b-3fe7-487f-9f2e-a4e99d88e2ee'></a> | <a href='https://github.com/ryungom'><img width='150' src='https://github.com/user-attachments/assets/49fb5b54-1fdb-43f3-8244-c37c1cfb4252'></a> | <a href='https://github.com/hardy-is-cat'><img width='150' src='https://github.com/user-attachments/assets/4dcad87f-f29a-440e-a432-676ffcb5b226'></a> | <a href='https://github.com/LeemJungHoon'><img width='150' src='https://github.com/user-attachments/assets/11fce973-e85e-4cce-be1c-817773f91c47'></a> | <a href='https://github.com/heegenie'><img width='150' src='https://github.com/user-attachments/assets/8e885389-079c-40fb-a965-93d70256982e'></a> |
 
 </details>
+
+
+
 
 ## 💚 향후 기수 모집 방식
 
