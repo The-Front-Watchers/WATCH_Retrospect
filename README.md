@@ -30,8 +30,8 @@
 
 - 필수 참여일 : 주 2회 (월/토요일)
   - 일간 회고 시작시간 : 평일 22시
-  - 주간 회고 시작시간 : 토요일 10시
-- 선택 참여일 : 평일 밤 22시
+  - 주간 회고 시작시간 : 토요일 22시
+- 선택 참여일 : 평일 22시
 - 매월 기수모집 (2024년 11월 베타 테스트)
 
 ## 🎉 진행방식
@@ -62,6 +62,7 @@
 | 24년 11월 | <a href='https://github.com/redcontroller'><img width='150' src='https://github.com/user-attachments/assets/bc79a85b-3fe7-487f-9f2e-a4e99d88e2ee'></a> | <a href='https://github.com/ryungom'><img width='150' src='https://github.com/user-attachments/assets/49fb5b54-1fdb-43f3-8244-c37c1cfb4252'></a> | <a href='https://github.com/hardy-is-cat'><img width='150' src='https://github.com/user-attachments/assets/4dcad87f-f29a-440e-a432-676ffcb5b226'></a> |   <a href='https://github.com/merrybmc'><img width='150' src='https://github.com/user-attachments/assets/dda4b7bf-ef3d-4c2c-984b-f9827e7679dc'></a>   | <a href='https://github.com/zldnlto'><img width='150' src='https://github.com/user-attachments/assets/ae9049d3-94e5-406e-af53-99072af90301'></a>  |
 | 24년 12월 | <a href='https://github.com/redcontroller'><img width='150' src='https://github.com/user-attachments/assets/bc79a85b-3fe7-487f-9f2e-a4e99d88e2ee'></a> | <a href='https://github.com/ryungom'><img width='150' src='https://github.com/user-attachments/assets/49fb5b54-1fdb-43f3-8244-c37c1cfb4252'></a> | <a href='https://github.com/hardy-is-cat'><img width='150' src='https://github.com/user-attachments/assets/4dcad87f-f29a-440e-a432-676ffcb5b226'></a> | <a href='https://github.com/LeemJungHoon'><img width='150' src='https://github.com/user-attachments/assets/11fce973-e85e-4cce-be1c-817773f91c47'></a> | <a href='https://github.com/heegenie'><img width='150' src='https://github.com/user-attachments/assets/8e885389-079c-40fb-a965-93d70256982e'></a> |
 | 25년 01월 | <a href='https://github.com/redcontroller'><img width='150' src='https://github.com/user-attachments/assets/bc79a85b-3fe7-487f-9f2e-a4e99d88e2ee'></a> | <a href='https://github.com/ryungom'><img width='150' src='https://github.com/user-attachments/assets/49fb5b54-1fdb-43f3-8244-c37c1cfb4252'></a> | <a href='https://github.com/hardy-is-cat'><img width='150' src='https://github.com/user-attachments/assets/4dcad87f-f29a-440e-a432-676ffcb5b226'></a> | <a href='https://github.com/LeemJungHoon'><img width='150' src='https://github.com/user-attachments/assets/11fce973-e85e-4cce-be1c-817773f91c47'></a> | <a href='https://github.com/heegenie'><img width='150' src='https://github.com/user-attachments/assets/8e885389-079c-40fb-a965-93d70256982e'></a> | <a href='https://github.com/yyejin00'><img width='150' src='https://github.com/user-attachments/assets/90c99189-1301-4989-a7be-6ce54cdd2c25'></a> |
+| 25년 02월 | <a href='https://github.com/redcontroller'><img width='150' src='https://github.com/user-attachments/assets/bc79a85b-3fe7-487f-9f2e-a4e99d88e2ee'></a> | <a href='https://github.com/ryungom'><img width='150' src='https://github.com/user-attachments/assets/49fb5b54-1fdb-43f3-8244-c37c1cfb4252'></a> | <a href='https://github.com/hardy-is-cat'><img width='150' src='https://github.com/user-attachments/assets/4dcad87f-f29a-440e-a432-676ffcb5b226'></a> | <a href='https://github.com/LeemJungHoon'><img width='150' src='https://github.com/user-attachments/assets/11fce973-e85e-4cce-be1c-817773f91c47'></a> | <a href='https://github.com/yyejin00'><img width='150' src='https://github.com/user-attachments/assets/90c99189-1301-4989-a7be-6ce54cdd2c25'></a> |
 
 </details>
 
